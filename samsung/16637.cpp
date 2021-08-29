@@ -1,7 +1,5 @@
 #include <iostream>
-#include <deque>
 #include <string>
-#include <map>
 #include <vector>
 #include <cmath>
 #include <algorithm>
